@@ -1,14 +1,25 @@
 {
   "name": "meread-generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "A code to generate a readme file",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Sean Finley",
-  "license": "ISC",
+  "license": "UNLICENSED",
   "dependencies": {
     "inquirer": "^8.2.6"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Desean2001/MeRead-Gen.git"
+  },
+  "keywords": [
+    "readme"
+  ],
+  "bugs": {
+    "url": "https://github.com/Desean2001/MeRead-Gen/issues"
+  },
+  "homepage": "https://github.com/Desean2001/MeRead-Gen#readme"
 }
